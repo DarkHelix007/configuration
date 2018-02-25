@@ -1,3 +1,4 @@
+#!/bin/bash
 #This part installs rbenv and ruby-build and instal ruby v2.3.3
 sudo apt-get install rbenv
 sudo apt-get install ruby-build
